@@ -1,2 +1,3 @@
 Managed Git SSH signing QA for task 2864321.
 Retained chat signing after repository edit
+Retained chat signing after default rotation
