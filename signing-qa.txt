@@ -1,2 +1,3 @@
 Open-chat first enable for PR 2864321.
 Check signing on the final preview.
+Check private signing after the sharing fixes.
