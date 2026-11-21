@@ -1,0 +1,1 @@
+Verify signing on the first toolbar commit in an existing private chat.
