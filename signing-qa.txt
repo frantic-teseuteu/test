@@ -1,3 +1,4 @@
 Verify signing on the first toolbar commit in an existing private chat.
 Check the private signing lifecycle.
 Check signing after changing the default key.
+Check signing after retiring the previous key.
