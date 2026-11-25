@@ -6,3 +6,4 @@ Check the toolbar after key rotation.
 Check the staging preview signing route.
 Verify rotation on the private PR Registry route.
 Verified signing on rebased PR b007bda9.
+Verified dynamic key rotation on rebased PR b007bda9.
