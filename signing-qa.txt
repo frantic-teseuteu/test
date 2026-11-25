@@ -5,3 +5,4 @@ Check signing after retiring the previous key.
 Check the toolbar after key rotation.
 Check the staging preview signing route.
 Verify rotation on the private PR Registry route.
+Verified signing on rebased PR b007bda9.
